@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-zp460a.salamcuan.sbs/sitemap.xml
